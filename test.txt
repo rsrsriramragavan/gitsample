@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3666-2CAE
+
+ Directory of C:\Users\SriRamS_c0mcsxg\Desktop\myfolder
+
+15-06-2023  19:00    <DIR>          .
+15-06-2023  19:00    <DIR>          ..
+15-06-2023  19:00                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  139,942,653,952 bytes free
